@@ -4,7 +4,7 @@
 Creamos repositorio de documentos con muestras de codigo en distintos lenguajes y/o _scripts_.
 Son cinco ejemplos de los distintos **lenguajes de marcas** referidos en esta Unidad Tematica.
 
-Segidamente se encuentran listados **enlaces directos** a cada uno de los archivos en el repositioro creado en _GitHub_
+Seguidamente se encuentran listados **enlaces directos** a cada uno de los archivos en el repositioro creado en _GitHub_.
 
 ###Archivos subidos al repositorio:
 
