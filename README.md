@@ -1,9 +1,10 @@
 # Task_LangMark_01
-Archivos de la primera tarea de Leng. de Marca y Sis. Gest. información
+## Archivos de la tarea de la UT 01 de Lenguajes de Marcas y Sistemas de Gestión de la Información.
 
 Creamos repositorio de documentos con muestras de codigo en distintos lenguajes y/o _scripts_.
+Son cinco ejemplos de los distintos **lenguajes de marcas** referidos en esta Unidad Tematica
 
-##Archivos subidos al repositorio:
+###Archivos subidos al repositorio:
 
 * [Documento en HTML (_HiperTex Markup Language_)](https://github.com/Olvera/Task_LangMark_01/blob/master/Doc_HTML.html)
 * [Documento en XML(_eXtensible Markup Language_)](https://github.com/Olvera/Task_LangMark_01/blob/master/Doc_XML.xml)
